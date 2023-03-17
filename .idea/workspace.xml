@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b438382-a411-42b4-8f67-b8b44e0d1ae1" name="Changes" comment="Lade till test programmet och påbörjat uppgiften">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="7b438382-a411-42b4-8f67-b8b44e0d1ae1" name="Changes" comment="Påbörjade med objekt orienterade programeringen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Komplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Komplex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KomplexaTal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KomplexaTal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KomplexaTal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +34,29 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Code/Projects/KomplexaTal",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="KomplexaTal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KomplexaTal" />
+      <module name="KomplexaTal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KomplexaTal" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +79,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1678802342564</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Påbörjade med objekt orienterade programeringen">
+      <created>1678803088693</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1678803088693</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lade till test programmet och påbörjat uppgiften" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lade till test programmet och påbörjat uppgiften" />
+    <MESSAGE value="Påbörjade med objekt orienterade programeringen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Påbörjade med objekt orienterade programeringen" />
   </component>
 </project>
